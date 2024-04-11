@@ -5,8 +5,8 @@
   "decimals": 9,
   "description": "",
   "uri": "https://dexwiener.vercel.app",
-  "image": "https://raw.githubusercontent.com/aparlay/dexwiener_meta/master/dexwiener.pngg",
-  "logoURI": "https://raw.githubusercontent.com/aparlay/dexwiener_meta/master/dexwiener.png",
+  "image": "https://raw.githubusercontent.com/aparlay/dexwiener_meta/main/dexwiener.png",
+  "logoURI": "https://raw.githubusercontent.com/aparlay/dexwiener_meta/main/dexwiener.png",
   "extensions": {
     "discord": "https://discord.gg/z4rvjkZM",
     "telegram": "https://t.me/+YzrIU6biRdFlNDdl",
