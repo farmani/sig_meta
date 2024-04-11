@@ -1,16 +1,18 @@
 {
   "address": "67ecE8CHho5Tkr9P8zvmxE5M4HK9xvMaC8bcZqeWgFk2",
-  "symbol": "$DAWG",
-  "name": "Dex Wiener",
+  "symbol": "$SIG",
+  "name": "Sigourney Wiener",
   "decimals": 9,
   "description": "",
-  "uri": "https://dexwiener.vercel.app",
-  "image": "https://raw.githubusercontent.com/aparlay/dexwiener_meta/main/dexwiener.png",
-  "logoURI": "https://raw.githubusercontent.com/aparlay/dexwiener_meta/main/dexwiener.png",
+  "uri": "https://sigourneywiener.vercel.app",
+  "image": "https://raw.githubusercontent.com/aparlay/sig_meta/main/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/aparlay/sig_meta/main/logo.png",
+  "logo": "https://raw.githubusercontent.com/aparlay/sig_meta/main/logo.png",
   "extensions": {
-    "discord": "https://discord.gg/z4rvjkZM",
+    "discord": "https://discord.gg/YEpZYMpSxz",
     "telegram": "https://t.me/+YzrIU6biRdFlNDdl",
-    "twitter": "https://twitter.com/DexWiener",
-    "website": "https://dexwiener.vercel.app"
-  }
+    "twitter": "https://twitter.com/sig_wiener",
+    "website": "https://sigourneywiener.vercel.app"
+  },
+  "tags": ["sigourney", "wiener", "sig", "$SIG"]
 }
