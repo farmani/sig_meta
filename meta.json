@@ -5,9 +5,9 @@
   "decimals": 9,
   "description": "Introducing Sigourney Wiener: one of Earth’s greatest hotdog actors, grilling her way into audiences’ hearts in Hollywood!",
   "uri": "https://sigourneywiener.vercel.app",
-  "image": "https://raw.githubusercontent.com/aparlay/sig_meta/main/logo.png",
-  "logoURI": "https://raw.githubusercontent.com/aparlay/sig_meta/main/logo.png",
-  "logo": "https://raw.githubusercontent.com/aparlay/sig_meta/main/logo.png",
+  "image": "https://raw.githubusercontent.com/farmani/sig_meta/main/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/farmani/sig_meta/main/logo.png",
+  "logo": "https://raw.githubusercontent.com/farmani/sig_meta/main/logo.png",
   "extensions": {
     "telegram": "https://t.me/+YzrIU6biRdFlNDdl",
     "twitter": "https://twitter.com/sig_wiener",
