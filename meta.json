@@ -1,0 +1,16 @@
+{
+  "address": "67ecE8CHho5Tkr9P8zvmxE5M4HK9xvMaC8bcZqeWgFk2",
+  "symbol": "$DAWG",
+  "name": "Dex Wiener",
+  "decimals": 9,
+  "description": "",
+  "uri": "https://dexwiener.vercel.app",
+  "image": "https://raw.githubusercontent.com/aparlay/dexwiener_meta/master/dexwiener.pngg",
+  "logoURI": "https://raw.githubusercontent.com/aparlay/dexwiener_meta/master/dexwiener.png",
+  "extensions": {
+    "discord": "https://discord.gg/z4rvjkZM",
+    "telegram": "https://t.me/+YzrIU6biRdFlNDdl",
+    "twitter": "https://twitter.com/DexWiener",
+    "website": "https://dexwiener.vercel.app"
+  }
+}
